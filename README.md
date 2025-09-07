@@ -1,8 +1,10 @@
 # 📊 Vrinda Store 2022 Dashboard
 
 An interactive Excel dashboard analyzing Vrinda Store’s performance in 2022. This project visualizes sales trends, customer demographics, regional performance, and order fulfillment using slicers, pivot charts, and clean storytelling. Ideal for business insights, tutorials, and faceless YouTube walkthroughs.
-git add <image_file_path>
----
+<br>
+
+
+![alt text](https://github.com/imranraza-AI/Vrinda-store-2022/blob/main/image.png)
 
 ## 📁 Project Structure
 
